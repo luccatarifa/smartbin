@@ -40,3 +40,10 @@ img {
 .container {
     text-align: center;
 }
+
+video {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
