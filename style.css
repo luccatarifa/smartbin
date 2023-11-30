@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Circular:wght@400;700&display=swap');
+
+body {
+    font-family: 'Circular', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0f7e0
+}
+
+header {
+    background-color: #c1efc1;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #c1efc1;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
